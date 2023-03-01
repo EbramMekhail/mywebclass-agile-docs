@@ -1,9 +1,6 @@
 # Theme 1.0: Project Setup
 ## Overview
-Our objective is to establish a highly visible web presence using lean and agile principles to quickly and effectively
-develop a strong foundation for our web project. By completing the initiatives outlined in this theme, we can establish a
-solid foundation that ensures our web page meets our business requirements throughout the life of the project, setting
-us up for long-term success.
+As a developer, I want to ensure that the software code is clean and maintainable so that it can be easily updated and improved over time. By conducting code reviews and refactoring where necessary, we can improve the quality of the codebase. This will enable us to reduce the time spent on bug fixes and feature additions, and improve the overall stability of the software. By following the principles of test-driven development and agile software development, we can quickly and effectively deliver high-quality code. The project deliverables will include a well-structured and maintainable codebase, a comprehensive test suite, and detailed documentation. This will set us up for long-term benefit by ensuring that the software is easy to maintain, scale, and adapt to changing business needs.
 ## Initiative(s)
 
 * [Develop initial project documentation to establish a clear project scope.](initiatives/documentation_initiative.md)
