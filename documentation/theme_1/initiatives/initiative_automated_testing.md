@@ -43,4 +43,4 @@
 - Testing specialists or consultants (if needed)
 
 # List epics related to this theme
-1. [Epic 2](epics/epic_auto_testing.md)
+- [Epic 2](epics/epic_auto_testing.md)

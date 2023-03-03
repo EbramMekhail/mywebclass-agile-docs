@@ -32,4 +32,4 @@
 **Priority:**
 - High
 # List stories related to this theme
-1. [Story 1](stories/story_auto_testing.md)
+- [Story 2](stories/story_auto_testing.md)

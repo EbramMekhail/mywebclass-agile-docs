@@ -32,4 +32,4 @@
 - High
 
 # List stories related to this theme
-1. [Story 1](stories/story_cloud_mirgration.md)
+- [Story 3](stories/story_cloud_mirgration.md)

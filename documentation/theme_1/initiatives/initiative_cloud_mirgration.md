@@ -44,4 +44,4 @@
 - Cloud infrastructure specialists or consultants (if needed)
 
 # List epics related to this theme
-1. [Epic 3](epics/epic_cloud_mirgration.md)
+- [Epic 3](epics/epic_cloud_mirgration.md)
