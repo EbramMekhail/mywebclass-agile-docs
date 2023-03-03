@@ -1,3 +1,4 @@
+<!-- 1. Incorrectly changed the template initiative, should create your own (FIXED) -->
 "Title of the Initiative"
 
 Description: [A brief description of the initiative]

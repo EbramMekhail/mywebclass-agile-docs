@@ -31,5 +31,7 @@
 
 **Priority:**
 - High
+  
+<!-- 3. The link is not linked to the correct story (FIXED) -->
 # List stories related to this theme
 - [Story 2](stories/story_auto_testing.md)
