@@ -1,5 +1,4 @@
 # Initiative 1: Code Review and Refactoring
-<!-- 2. The file name is incorrect, should be code review -->
 **Description:** Establish a process for regular code reviews and refactoring to ensure that the software code is clean and maintainable.
 
 **Goals:**
