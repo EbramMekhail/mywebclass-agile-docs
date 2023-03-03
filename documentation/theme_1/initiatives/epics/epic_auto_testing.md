@@ -1,4 +1,4 @@
-# Epic 3: Automated Testing
+# Epic 2: Automated Testing
 
 **Description:** Implement an automated testing framework to improve testing efficiency and reduce manual testing efforts.
 

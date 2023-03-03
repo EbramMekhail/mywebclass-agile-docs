@@ -1,4 +1,4 @@
-# Epic 2: Cloud Migration
+# Epic 3: Cloud Migration
 
 **Description:** Migrate the existing software infrastructure to a cloud-based platform to improve scalability, flexibility, and security.
 
