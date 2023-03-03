@@ -10,5 +10,5 @@ As a developer, I want to be able to request a code review for my pull request s
 - Once the code review is complete, I should receive a notification with the results and any required actions.
 - The pull request should only be merged into the main branch once the code review feedback has been addressed and approved by the reviewer.
 
-# List Stories related to this theme
-1. [Stories 1](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
+# List Tasks related to this theme
+- [Task 1](tasks/task_code_review.md)

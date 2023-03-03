@@ -1,4 +1,3 @@
-<!-- 4. Placed in incorrect directory, should be placed in tasks directory -->
 Task Title: Set up automated UI testing for login page
 
 User Story: As a website user, I want to be able to log in to the website with valid credentials so that I can access my account.

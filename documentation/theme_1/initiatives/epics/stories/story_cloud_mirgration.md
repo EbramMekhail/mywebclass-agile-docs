@@ -10,4 +10,4 @@ As a developer, I want to migrate our application to the cloud so that we can ta
 - The migrated application meets all functional requirements as defined by the project stakeholders.
 
 # List Tasks related to this theme
-1. [Task 1](tasks/task_cloud_mirgration.md)
+- [Task 3](tasks/task_cloud_mirgration.md)

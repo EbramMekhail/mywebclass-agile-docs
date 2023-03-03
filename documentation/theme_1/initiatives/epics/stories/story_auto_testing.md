@@ -12,5 +12,5 @@ As a software developer, I want to automate the testing process for our web appl
 - The automated testing process is integrated into our development workflow and can be easily extended and maintained by the development team
 
 
-# List Stories related to this theme
-1. [Stories 1](tasks/task_template.md)
+# List Tasks related to this theme
+- [Task 2](tasks/task_auto_testing.md)
