@@ -4,8 +4,9 @@ As a developer, we want to ensure that the software code is clean and maintainab
 ## Initiative(s)
 
 * [Code Review and Refactoring Initiative.](initiatives/initiative_code_review.md)
-* [Cloud Migration Initiative.](initiatives/initiative_cloud_mirgration.md)
 * [Automated Testing Framework Initiative.](initiatives/initiative_automated_testing.md)
+* [Cloud Migration Initiative.](initiatives/initiative_cloud_mirgration.md)
+
 
 ## Test plan
 Objective: To ensure that the software code is clean and maintainable, and that the software product is of high quality and meets end-user requirements.
