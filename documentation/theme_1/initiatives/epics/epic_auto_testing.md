@@ -31,6 +31,5 @@
 
 **Priority:**
 - High
-<!-- 3. The link is not linked to the correct story -->
 # List stories related to this theme
-1. [Story 1](documentation/theme_1/initiatives/epics/stories/story_auto_testing.md)
+1. [Story 1](stories/story_auto_testing.md)

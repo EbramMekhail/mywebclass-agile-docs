@@ -41,4 +41,4 @@
 - Code reviewers
 
 # List epics related to this theme
-1. [Epic 1](documentation/theme_1/initiatives/epics/epic_code_review.md)
+1. [Epic 1](epics/epic_code_review.md)

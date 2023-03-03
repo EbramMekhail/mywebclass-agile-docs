@@ -13,4 +13,4 @@ As a software developer, I want to automate the testing process for our web appl
 
 
 # List Stories related to this theme
-1. [Stories 1](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
+1. [Stories 1](tasks/task_template.md)
