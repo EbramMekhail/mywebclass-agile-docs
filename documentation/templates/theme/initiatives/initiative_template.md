@@ -1,45 +1,26 @@
-# Initiative 1: Code Review and Refactoring
-<!-- 1. Incorrectly changed the template initiative, should create your own -->
-**Description:** Establish a process for regular code reviews and refactoring to ensure that the software code is clean and maintainable.
+"Title of the Initiative"
 
-**Goals:**
-- Improve code quality and readability
-- Reduce technical debt
-- Increase maintainability of the codebase
+Description: [A brief description of the initiative]
 
-**Scope:**
-- All software code will be subject to code reviews and refactoring where necessary.
+Goals: [List the goals or objectives of the initiative]
 
-**Outcomes:**
-- Improved code structure and readability
-- Fewer bugs
-- Increased maintainability of the codebase
+Scope: [Define the scope of the initiative]
 
-**Deliverables:**
-- Code review process documentation
-- Refactoring guidelines
-- Code quality metrics dashboard
+Outcomes: [Describe the expected outcomes of the initiative]
 
-**Milestones:**
-- Establish code review process and designate code reviewers - Month 1
-- Conduct first code review and refactoring session - Month 2
-- Conduct regular code review and refactoring sessions - Ongoing
+Deliverables: [List the expected deliverables of the initiative]
 
-**Constraints:**
-- Limited availability of code reviewers
+Milestones: [List the major milestones and their timelines]
 
-**Assumptions:**
-- Development team is committed to the process of regular code reviews and refactoring.
+Constraints: [Identify any constraints or limitations that may impact the initiative]
 
-**Risks:**
-- Resistance from developers to conduct code reviews and refactoring - Mitigation strategy: establish clear guidelines and benefits of the process.
+Assumptions: [List any assumptions made about the initiative]
 
-**Dependencies:**
-- Availability of code reviewers and developers
+Risks: [List the potential risks and mitigation strategies]
 
-**Team:**
-- Development team
-- Code reviewers
+Dependencies: [List any dependencies that may impact the initiative]
+
+Team: [Identify the team members and their roles in the initiative]
 
 # List epics related to this theme
 1. [Epic 1](documentation/templates/theme/initiatives/epics/epic_template.md)
