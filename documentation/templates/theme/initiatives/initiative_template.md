@@ -1,5 +1,5 @@
 # Initiative 1: Code Review and Refactoring
-
+<!-- 1. Incorrectly changed the template initiative, should create your own -->
 **Description:** Establish a process for regular code reviews and refactoring to ensure that the software code is clean and maintainable.
 
 **Goals:**
